@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#061046</color>
+    <color name="colorPrimaryDark">#252529</color>
+    <color name="colorAccent">#230A74</color>
+    <color name="bG">#03092B</color>
+    <color name="Bars">#020515</color>
+    <color name="Text">#949FDA</color>
+    <color name="Hints">#1E2547</color>
+</resources>

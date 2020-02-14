@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facepalm Messenger</string>
+    <string name="Button">Send</string>
+    <string name="Message">Insert a message</string>
+</resources>
